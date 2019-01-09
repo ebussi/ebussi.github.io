@@ -1,10 +1,13 @@
 body {
-	margin: 0;
-	padding: 0;
-	background: black;
-	color: white;
-	font-family: Helvetica;
+	margin: 3em;
+	padding: 3em;
+	background-size: cover; 
+	color: #FE9B96;
+	font-family: futura;
+	font-size: 100pt
+
 }
 main {
 	padding: 1em;
 }
+
